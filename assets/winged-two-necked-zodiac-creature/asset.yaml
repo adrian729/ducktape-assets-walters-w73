@@ -1,0 +1,62 @@
+# descriptive: find it and understand it
+id: winged-two-necked-zodiac-creature
+title: Scorpio, winged creature with two necks
+description: The creature standing for Scorpio on the zodiac wheel, a winged beast with two long necks rising from a feathered body, one ending in a beaked head at the top and the other looping down to the left; the broad wing spreads to the right and the tail ends in a red band and a cross-hatched tip. Tan parchment tone with brown ink. Transparent background.
+type: illustration
+categories:
+  - fantasy
+  - animals
+subjects:
+  - creature
+  - bird-like-creature
+  - wings
+  - zodiac
+  - scorpio
+colors:
+  - tan
+  - brown
+  - red
+facing: mixed
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 1r
+render:
+  image: {}
+related:
+  - { asset: walters-w73/bull-with-bent-legs, role: companion }
+  - { asset: walters-w73/centaur-archer-with-bow, role: companion }
+  - { asset: walters-w73/eight-legged-zodiac-crab, role: companion }
+  - { asset: walters-w73/figure-holding-balance-scales, role: companion }
+  - { asset: walters-w73/goat-headed-fish-tailed-capricorn, role: companion }
+  - { asset: walters-w73/lion-with-curled-tail, role: companion }
+  - { asset: walters-w73/mail-clad-twins-with-shared-shield, role: companion }
+  - { asset: walters-w73/ram-with-curled-horns, role: companion }
+  - { asset: walters-w73/robed-water-bearer-pouring-round-jar, role: companion }
+  - { asset: walters-w73/robed-woman-with-outstretched-arms, role: companion }
+  - { asset: walters-w73/two-linked-zodiac-fish, role: companion }
+usage_notes:
+  - One of the twelve signs cut from the zodiac wheel of fol. 1r, all at the same scale, so they can be set in a ring or a row together.
+display_width:
+  - 200
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The body keeps the parchment tone of the page as opaque fill.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Diagram of the zodiac
+  object_identifier: W.73, fol. 1r
+  date: Late 12th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000003_1076.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: ffb54e2de949fa417ec244b99ad1575df380308d6a7466a29078367df143d568
+license: null

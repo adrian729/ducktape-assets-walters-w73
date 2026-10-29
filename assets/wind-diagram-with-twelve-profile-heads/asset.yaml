@@ -1,0 +1,69 @@
+# descriptive: find it and understand it
+id: wind-diagram-with-twelve-profile-heads
+title: Rota of the winds with twelve heads
+description: The complete wind diagram of the folio, a wheel whose broad green outer ring holds twelve roundels, each with a pale profile head blowing a green ray of breath toward the centre, with red quatrefoils between the roundels. Inscriptions in brown and red fill the ring and run along twelve red-ruled spokes from a small central disc through two inner concentric rings. The blank parchment inside the rings and outside the wheel is transparent.
+type: illustration
+categories:
+  - humans
+  - geometric
+subjects:
+  - wind
+  - head
+  - face
+  - diagram
+  - wheel
+  - roundel
+  - quatrefoil
+  - lettering
+  - ray
+colors:
+  - green
+  - red
+  - brown
+  - cream
+facing: none
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 1v
+render:
+  image: {}
+related:
+  - { asset: walters-w73/wind-head-01, role: variant }
+  - { asset: walters-w73/wind-head-02, role: variant }
+  - { asset: walters-w73/wind-head-03, role: variant }
+  - { asset: walters-w73/wind-head-04, role: variant }
+  - { asset: walters-w73/wind-head-05, role: variant }
+  - { asset: walters-w73/wind-head-06, role: variant }
+  - { asset: walters-w73/wind-head-07, role: variant }
+  - { asset: walters-w73/wind-head-08, role: variant }
+  - { asset: walters-w73/wind-head-09, role: variant }
+  - { asset: walters-w73/wind-head-10, role: variant }
+  - { asset: walters-w73/wind-head-11, role: variant }
+  - { asset: walters-w73/wind-head-12, role: variant }
+  - { asset: walters-w73/red-quatrefoil-from-wind-wheel, role: variant }
+usage_notes:
+  - The inscriptions, spokes and rings are part of the diagram and are kept; for a single blowing head use the wind-head assets, which are cut from this master and turned upright.
+  - Blank parchment is transparent, so the counters of the lettering show whatever sits behind the wheel; it reads best on a light ground.
+display_width:
+  - 600
+  - 1600
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The green ring is worn and patchy and the brown ink of the inscriptions is faint in places; the heads and the ring keep the parchment tone of the page as opaque fill.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Diagram (rota) of the winds
+  object_identifier: W.73, fol. 1v
+  date: Late 12th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6
+license: null

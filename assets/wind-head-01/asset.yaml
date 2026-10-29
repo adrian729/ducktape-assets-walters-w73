@@ -1,0 +1,63 @@
+# descriptive: find it and understand it
+id: wind-head-01
+title: Wind head 1, 12 o'clock
+description: The profile head from the roundel at the 12 o'clock position of the wind rota, facing right with the mouth open and blowing. Long hair streaked brown and green falls behind the head to the shoulder, the ear shows, the open mouth holds a green tongue of breath, the cheek and forehead carry red patches, and a long neck with a hint of collar runs to the bottom. Pale parchment-toned face drawn in brown ink. Transparent background.
+type: illustration
+categories:
+  - humans
+subjects:
+  - head
+  - face
+  - wind
+  - breath
+  - human
+colors:
+  - cream
+  - brown
+  - green
+  - pink
+facing: right
+view: side
+composition: single-figure
+
+# structural: how it is organised and related
+group: 1v
+render:
+  image: {}
+related:
+  - { asset: walters-w73/wind-diagram-with-twelve-profile-heads, role: variant }
+  - { asset: walters-w73/wind-head-02, role: companion }
+  - { asset: walters-w73/wind-head-03, role: companion }
+  - { asset: walters-w73/wind-head-04, role: companion }
+  - { asset: walters-w73/wind-head-05, role: companion }
+  - { asset: walters-w73/wind-head-06, role: companion }
+  - { asset: walters-w73/wind-head-07, role: companion }
+  - { asset: walters-w73/wind-head-08, role: companion }
+  - { asset: walters-w73/wind-head-09, role: companion }
+  - { asset: walters-w73/wind-head-10, role: companion }
+  - { asset: walters-w73/wind-head-11, role: companion }
+  - { asset: walters-w73/wind-head-12, role: companion }
+usage_notes:
+  - Cut from the wind diagram of fol. 1v and turned upright to face right; in the rota the twelve heads face the centre. All twelve are at the same scale.
+display_width:
+  - 120
+  - 400
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The face keeps the parchment tone of the page as opaque fill, and the left edge is the cut along the roundel rather than a drawn outline.
+master: master.png
+provenance:
+  method: native-source-extraction
+  institution: Walters Art Museum
+  object_title: Diagram (rota) of the winds
+  object_identifier: W.73, fol. 1v
+  date: Late 12th century CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W73/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W73/data/W.73/master/W73_000004_1076.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 64c034d86d780060b58ea5560ede7254aa3e5be29a73711b667891f8e3a215d6
+license: null
